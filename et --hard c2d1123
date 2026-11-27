@@ -1,0 +1,32 @@
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/update_dune
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (start): checkout main
+[33m963f18f[m HEAD@{2}: checkout: moving from main to update_dune
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from update_dune to main
+[33m963f18f[m HEAD@{4}: reset: moving to 963f18f24b97472f60f8f825f5ff54e62f1718dd
+[33mcaeeedb[m HEAD@{5}: reset: moving to caeeedb
+[33m52ad9ac[m HEAD@{6}: commit: J:for deletion
+[33mcaeeedb[m HEAD@{7}: rebase (finish): returning to refs/heads/update_dune
+[33mcaeeedb[m HEAD@{8}: rebase (pick): I: Fear
+[33me556103[m HEAD@{9}: rebase (pick): H: Spice
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: rebase (start): checkout main
+[33mc2d1123[m HEAD@{11}: checkout: moving from main to update_dune
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{12}: checkout: moving from update_dune to main
+[33mc2d1123[m HEAD@{13}: commit: I: Fear
+[33m6b9ecc3[m HEAD@{14}: commit: H: Spice
+[33mb55dc99[m HEAD@{15}: checkout: moving from main to update_dune
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{16}: merge update_titles: Fast-forward
+[33m8bd1fe6[m HEAD@{17}: checkout: moving from update_titles to main
+[33m2812404[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m, [m[1;32mmain[m[33m)[m HEAD@{18}: commit: G: Benjamin Button
+[33m8bd1fe6[m HEAD@{19}: checkout: moving from main to update_titles
+[33m8bd1fe6[m HEAD@{20}: merge add_classics: Merge made by the 'ort' strategy.
+[33mf1777ea[m HEAD@{21}: commit: E: E commit
+[33m963f18f[m HEAD@{22}: checkout: moving from add_classics to main
+[33mb55dc99[m HEAD@{23}: commit: D: Monthy Python
+[33m963f18f[m HEAD@{24}: checkout: moving from main to add_classics
+[33m963f18f[m HEAD@{25}: checkout: moving from add_classics to main
+[33m963f18f[m HEAD@{26}: checkout: moving from main to add_classics
+[33m963f18f[m HEAD@{27}: Branch: renamed refs/heads/master to refs/heads/main
+[33m963f18f[m HEAD@{29}: commit: C: add quotes
+[33mdd6330c[m HEAD@{30}: commit: C: add quotes
+[33mb0358ea[m HEAD@{31}: commit: B: add titles
+[33mb3682ae[m HEAD@{32}: commit (initial): A: add contents.md
